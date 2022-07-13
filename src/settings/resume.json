@@ -1,0 +1,43 @@
+{
+    "basics": {
+        "name": "Rajdeep Sachar",
+        "label": "Software Developer",
+        "email": "rajsachar34@gmail.com",
+        "phone": "778-886-4384",
+        "picture": "",
+        "x_title": "Hello, I'm",
+        "job1": "Developer",
+        "job2": "Analyst",
+        "description": "Hello, I'm Raj. I'm a developer who loves working on new and intereting projects!",
+        "summary": "based in Maple Ridge, Brithish Columbia.",
+        "keywords": "personal,website,portfolio,template,kit,webdev,web,developer,react,github,linkedin,google,material,design,ui,webapp,markdown",
+        "location": {
+            "address": "11688 206A st",
+            "postalCode": "V2X0X8",
+            "city": "Maple Ridge",
+            "country": "Canada"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "rajsachar34@gmail.com",
+                "url": "mailto:rajsachar34@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "rajsachar",
+                "url": "https://www.linkedin.com/in/raj-sachar-7947b31b0/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "rajsachar",
+                "url": "https://github.com/rajsachar",
+                "x_icon": "fab fa-github"
+            }
+            
+
+        ]
+    }
+}
